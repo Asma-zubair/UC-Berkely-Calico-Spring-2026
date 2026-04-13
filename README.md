@@ -5,7 +5,8 @@ Welcome to the official documentation of my participation in the prestigious UC 
 ## LinkedIn Post
 [View My LinkedIn Post](https://www.linkedin.com/posts/asma-zubair-6062b9315_programming-competitiveprogramming-calico-ugcPost-7449277726970224640-KgM-?utm_source=share&utm_medium=member_desktop&rcm=ACoAAE_04yYB8XByU-BLbEPxFwsYOgMMuNs7Dzk)
 
-
+### Competition Evidence Snapshot 2
+![CALICO Proof 2](Screenshot%202026-04-13%20070401.png)
 
 ## Highlights
 | Highlight | Description |
@@ -42,5 +43,3 @@ This repository includes selected competition work files:
 ### Competition Evidence Snapshot 1
 ![CALICO Proof 1](Screenshot%202026-04-12%20065306.png)
 
-### Competition Evidence Snapshot 2
-![CALICO Proof 2](Screenshot%202026-04-13%20070401.png)

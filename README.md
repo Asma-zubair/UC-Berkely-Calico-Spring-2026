@@ -1,27 +1,46 @@
-# UC Berkely Calico Spring 2026
+# Participated in CALICO Spring 2025 Global Coding Challenge
 
-## Overview
-This repository contains the project templates and supporting PDF files for the UC Berkely Calico Spring 2026 work.
+Welcome to the official documentation of my participation in the prestigious UC Berkeley CALICO Spring Coding Competition 2025.
 
-## Files Included
-- `files_template.py`
-- `nah_template.py`
-- `piezoelectric_template.py`
-- `files.pdf`
-- `nah.pdf`
-- `piezoelectric.pdf`
+## LinkedIn Post
+[View My LinkedIn Post](https://www.linkedin.com/posts/asma-zubair-6062b9315_programming-competitiveprogramming-calico-ugcPost-7449277726970224640-KgM-?utm_source=share&utm_medium=member_desktop&rcm=ACoAAE_04yYB8XByU-BLbEPxFwsYOgMMuNs7Dzk)
+
+
+
+## Highlights
+| Highlight | Description |
+| --- | --- |
+| UC Berkeley CALICO Poster | Official competition poster |
+| Dashboard Overview | Live competition dashboard |
+| Scoreboard | Global scoreboard position |
+| Team Members | Team collaboration snapshot |
+
+## About CALICO Spring 2025
+CALICO is a globally recognized coding competition organized by UC Berkeley, sponsored by:
+
+- AlgoVerse AI Research
+- MIT IT
+- Berkeley Engineering
+
+This competition brings together top coders from universities worldwide, including the University of New York, Tsinghua University (China), the University of the Philippines, Russia, and many others.
+
+The problems were designed to be AI/LLM-proof and required strong human problem-solving, algorithmic thinking, and real-time collaboration.
+
+
+## Repository Artifacts
+This repository includes selected competition work files:
+
+- files_solution.py
+- nah_solution.py
+- piezoelectric_solution.py
+- files.pdf
+- nah.pdf
+- piezoelectric.pdf
 
 ## Proof Screenshots
 
-### 1) Project Workspace Snapshot
-This screenshot shows the project state and confirms the workspace setup.
+### Competition Evidence Snapshot 1
+![CALICO Proof 1](Screenshot%202026-04-12%20065306.png)
 
-![Project Workspace Snapshot](Screenshot%202026-04-12%20065306.png)
-
-### 2) Additional Proof Snapshot
-This screenshot provides additional evidence of the project work/progress.
-
-![Additional Proof Snapshot](Screenshot%202026-04-13%20070401.png)
-
-## Notes
-You can update the screenshot descriptions above with more specific details about what each image demonstrates (for example, successful run output, code completion, or submission status).
+### Competition Evidence Snapshot 2
+![CALICO Proof 2](Screenshot%202026-04-13%20070401.png)
